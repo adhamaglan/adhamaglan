@@ -2,7 +2,7 @@
 
 
 
-I am an engineering student at **Cairo University, Faculty of Engineering (CUFE)**, focusing on **Embedded Systems**. I enjoy writing low-level software, working with microcontrollers, and developing efficient systems code.
+I am an Electrical Engineering student at **Cairo University, Faculty of Engineering (CUFE)**, focusing on **Embedded Systems**. I enjoy writing low-level software, working with microcontrollers, and developing efficient systems code.
 
 ### 🛠️ Tech Stack & Skills
 
